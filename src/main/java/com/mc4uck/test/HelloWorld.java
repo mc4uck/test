@@ -1,4 +1,4 @@
-package com.mc4uck.tests;
+package com.mc4uck.test;
 
 public class HelloWorld {
     public static void main(String[] args) {
